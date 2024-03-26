@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Broadway-Home-Page-using---Ruby-on-Rails
+>>>>>>> 554b2a9cf0b473cead29a92102f6a8c869ca1012
